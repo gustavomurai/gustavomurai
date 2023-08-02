@@ -1,5 +1,5 @@
 # GustavoMurai
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=league+spartan&weight=800&duration=1500&pause=2000&color=BB00F7&background=FFFFFF00&width=435&lines=Prazer%2C+eu+sou+o+Gustavo+Murai+%F0%9F%98%89;Graduando+em+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=league+spartan&weight=800&duration=1500&pause=2000&color=22F743&background=FFFFFF00&width=435&lines=Prazer%2C+eu+sou+o+Gustavo+Murai++(%E3%81%A3%E2%97%95%E2%80%BF%E2%97%95)%E3%81%A3;Graduando+em+Sistemas+de+Informa%C3%A7%C3%A3o+%F0%9F%92%BB)](https://git.io/typing-svg)
 <p>
     
      📕 Graduando em Sistema de Informação 
