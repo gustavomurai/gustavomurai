@@ -34,7 +34,7 @@
 
 </div> 
 
-![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=gustavomurai&bg_color=0d1117&color=BBC8C6&line=858585&point=2372d9&area=true&hide_border=true&locale=pt-br)
+![Gráfico de Atividades no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=gustavomurai&bg_color=0d1117&color=9ed5ff&line=e0f2ff&point=2372d9&area=true&hide_border=true&locale=pt-br)
 
 ##
 
