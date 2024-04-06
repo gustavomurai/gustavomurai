@@ -21,16 +21,15 @@
 <div style="display: inline_block"><br>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomurai&count_private=true&theme=github_dark&show_icons=true) 
-<img src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/ddae18ce-2299-4ae9-8fc9-02b83c1016e8" width="195px" />
-<img src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/b7f2d47b-3e16-4588-a979-23b8dcc881b8" width="130px" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
     
 </div>    
     
 <div style="display: inline_block"><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=github_dark)](https://github.com/gustavomurai/github-readme-stats)
-<img src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/c7be1295-cbb1-4f13-a570-96f1045231ad" width="500px" />
+
+<img src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/c7be1295-cbb1-4f13-a570-96f1045231ad" width="820px" />
 
 </div> 
 
