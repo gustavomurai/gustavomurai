@@ -22,7 +22,7 @@
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavomurai&count_private=true&theme=github_dark&show_icons=true) 
 <img src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/ddae18ce-2299-4ae9-8fc9-02b83c1016e8" width="195px" />
-<img src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/599b360b-906b-468f-8dca-cc3340c7095c" width="195px" />
+
     
 </div>    
     
