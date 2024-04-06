@@ -1,10 +1,11 @@
 # Olá, Eu sou o Gustavo Murai! 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Js" height="30" width="30" src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/18f47b67-ea8d-4481-8f25-ec496c7b700f">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Js" height="50" width="50" src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/18f47b67-ea8d-4481-8f25-ec496c7b700f">
+    <img align="center" alt="Rafa-React" height="50" width="50" src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/c9da9afd-16da-4715-8614-5385aef99fdd">
+    <img align="center" alt="Rafa-Python" height="50" width="50" src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/194e0a28-503f-419b-8644-8c9b5332efef">
+    
 </div>
 
 ##
