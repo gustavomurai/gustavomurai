@@ -30,6 +30,7 @@
 <div style="display: inline_block"><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=github_dark)](https://github.com/gustavomurai/github-readme-stats)
+<img src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/d8f9a1e5-4a56-4729-8071-b05fa87317b8" width="500px" />
 
 </div> 
 
