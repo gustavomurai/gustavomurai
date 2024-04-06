@@ -26,7 +26,7 @@
     
 <div style="display: inline_block"><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=dark)](https://github.com/gustavomurai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=github_dark)](https://github.com/gustavomurai/github-readme-stats)
 
 </div> 
 
