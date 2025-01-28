@@ -10,7 +10,7 @@
 
 ##
 
-    📕 Graduando em Sistema de Informação 3/8
+    📕 Graduando em ADS 3/8
   
     💻 Estudando HTML5, CSS3, JavaScript e React
 
