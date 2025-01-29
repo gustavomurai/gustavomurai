@@ -12,7 +12,7 @@
 
     📕 Graduando em ADS 3/8
   
-    💻 Estudando HTML5, CSS3, JavaScript e React
+    💻 Estudando UX/UI DESIGN, HTML5, CSS3, JavaScript e React
 
     📖 Estudando Inglês e Francês 
       
