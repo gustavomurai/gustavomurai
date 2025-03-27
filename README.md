@@ -4,8 +4,7 @@
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="50" width="50" src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/18f47b67-ea8d-4481-8f25-ec496c7b700f">
-  <img align="center" alt="React" height="50" width="50" src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/c9da9afd-16da-4715-8614-5385aef99fdd">
-  <img align="center" alt="Python" height="50" width="50" src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/194e0a28-503f-419b-8644-8c9b5332efef">
+  <img align="center" alt="UX/UI Design" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
 ---
