@@ -53,4 +53,7 @@
   <a href="mailto:muraigustavo@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://www.behance.net/Muraiart" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-%231776F2?style=for-the-badge&logo=behance&logoColor=white">
+  </a>
 </div>
