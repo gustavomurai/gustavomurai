@@ -4,8 +4,8 @@
   <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <<img src="[URL_DO_GI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6813714-Figma-Logo-Animation&psig=AOvVaw32GS1kisdxBf8zEdnWKAKT&ust=1743134007726000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDBrrOuqYwDFQAAAAAdAAAAABAe)F" height="50" width="50">>
-  
+  <img align="center" alt="JavaScript" height="50" width="50" src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/18f47b67-ea8d-4481-8f25-ec496c7b700f">
+  <img align="center" alt="UX/UI Design" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/90/UX_Design_Icon.svg">
 </div>
 
 ---
