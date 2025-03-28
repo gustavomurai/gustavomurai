@@ -5,7 +5,6 @@
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="50" width="50" src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/18f47b67-ea8d-4481-8f25-ec496c7b700f">
-  
 </div>
 
 ---
@@ -39,7 +38,9 @@
 ### 📸 Meu Trabalho
 
 <div align="center">
-  <img src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/c7be1295-cbb1-4f13-a570-96f1045231ad" width="820px" />
+  <a href="https://www.behance.net/Muraiart" target="_blank">
+    <img src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/c7be1295-cbb1-4f13-a570-96f1045231ad" width="820px" />
+  </a>
 </div>
 
 ---
