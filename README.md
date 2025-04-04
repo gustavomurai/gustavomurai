@@ -29,9 +29,8 @@
 
 ### 🐍 Cobrinha do GitHub
 
-<div align="center">
-  <img src="https://github.com/gustavomurai/gustavomurai/blob/output/github-contribution-grid-snake.svg" />
-</div>
+![Snake animation](https://github.com/gustavomurai/gustavomurai/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
