@@ -73,10 +73,16 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
   <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/GIF.gif?raw=true" width="820px" alt="GIF de destaque">
 </div>
 
+---
+
 ## 📌 **Onde Me Encontrar**
-🔗 [Meu Portfólio UX/UI](https://www.behance.net/gallery/220797931/UXUI-Designer-Digital-Artist-Portfolio)  
-🎨 [Behance](https://www.behance.net/Muraiart)  
-💬 [LinkedIn](https://www.linkedin.com/in/gustavo-cerqueira-murai-52a815223)
+<div align="center">
+
+[![Portfólio UX/UI](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/220797931/UXUI-Designer-Digital-Artist-Portfolio)  
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/Muraiart)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-cerqueira-murai-52a815223)  
+
+</div>
 
 <div align="center">
   <a href="https://www.behance.net/Muraiart" target="_blank">
@@ -90,3 +96,4 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gustavomurai&color=ff69b4&style=flat" alt="contador de visitas">
 </p>
+
