@@ -61,19 +61,23 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 
 ## 🎨 **Projetos Recentes**  
 
-🔹 **[Coffee Shop Mobile App Design (UX/UI)](https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI)**  
+
+
+<a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" style="text-decoration: none;">
+  <div style="background-color: #8A2BE2; padding: 10px; border-radius: 10px; width: fit-content; color: white; font-weight: bold;">
+     Coffee Shop Mobile App Design (UX/UI)
+  </div>
+</a>  
 📱 Um aplicativo de cafeteria urbana, focado na melhor experiência do usuário ao pedir café.  
 
-🔹 **[Color Fruit - Kids Game Design (UX/UI)](https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI)**  
-🎮 Um jogo educativo para crianças explorarem frutas e suas cores de forma interativa.  
+<br>
 
----
-
-<div align="center">
-  <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/GIF.gif?raw=true" width="820px" alt="GIF de destaque">
-</div>
-
----
+<a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" style="text-decoration: none;">
+  <div style="background-color: #8A2BE2; padding: 10px; border-radius: 10px; width: fit-content; color: white; font-weight: bold;">
+     Color Fruit - Kids Game Design (UX/UI)
+  </div>
+</a>  
+🎮 Um jogo educativo para crianças explorarem frutas e suas cores de forma interativa.
 
 ## 📌 **Onde Me Encontrar**
 <div align="center">
