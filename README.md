@@ -8,11 +8,14 @@
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
-![Figma](https://img.shields.io/badge/Figma-Design-blue?style=for-the-badge&logo=figma)  
-![AdobeXD](https://img.shields.io/badge/Adobe%20XD-UI%2FUX-purple?style=for-the-badge&logo=adobexd)  
-![HTML5](https://img.shields.io/badge/HTML5-Front--End-orange?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-Layout-blue?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-Interatividade-yellow?style=for-the-badge&logo=javascript)  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Figma-UI%2FUX%20Design-blue?style=for-the-badge&logo=figma">
+  <img src="https://img.shields.io/badge/Adobe%20XD-UI%2FUX-purple?style=for-the-badge&logo=adobexd">
+  <img src="https://img.shields.io/badge/HTML5-Front--End-orange?style=for-the-badge&logo=html5">
+  <img src="https://img.shields.io/badge/CSS3-Layout-blue?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/JavaScript-Interatividade-yellow?style=for-the-badge&logo=javascript">
+</div>
 
 ---
 
