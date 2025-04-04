@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-UI%2FUX%20Design-blue?style=for-the-badge&logo=figma">
-  <img src="https://img.shields.io/badge/Adobe%20XD-UI%2FUX%20Design-purple?style=for-the-badge&logo=adobexd">
+  <img src="https://img.shields.io/badge/Adobe%20XD-UI%2FUX%20Design-purple?style=for-the-badge&logo=adobexd&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-Front--End-orange?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/CSS3-Layout-blue?style=for-the-badge&logo=css3">
   <img src="https://img.shields.io/badge/JavaScript-Interatividade-yellow?style=for-the-badge&logo=javascript">
