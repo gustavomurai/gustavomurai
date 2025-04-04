@@ -1,34 +1,32 @@
 # 👋 Olá, Eu sou o Gustavo Murai!
 
+🎨 Designer UX/UI apaixonado por criar experiências intuitivas e visuais envolventes.  
+💻 Transformo ideias em realidade usando **Figma, HTML, CSS e JavaScript**.  
+📚 Atualmente, estudando **React e Design de Interfaces**.  
+📖 Aprendendo **Inglês e Francês**.  
+
+---
+
+## 🚀 Tecnologias & Ferramentas  
+![Figma](https://img.shields.io/badge/Figma-Design-blue?style=for-the-badge&logo=figma)  
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-UI%2FUX-purple?style=for-the-badge&logo=adobexd)  
+![HTML5](https://img.shields.io/badge/HTML5-Front--End-orange?style=for-the-badge&logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-Layout-blue?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-Interatividade-yellow?style=for-the-badge&logo=javascript)  
+
+---
+
+## 📊 Estatísticas do GitHub  
+
 <div align="center">
-  <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="50" width="50" src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/18f47b67-ea8d-4481-8f25-ec496c7b700f">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavomurai&count_private=true&theme=github_dark&show_icons=true&cache_seconds=0"/>
+  <br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=github_dark&cache_seconds=0"/>
 </div>
 
 ---
 
-### 📌 Sobre Mim
-
-- 🎓 **Graduando em ADS (3/8)**
-- 💻 **Estudando:** UX/UI Design, HTML5, CSS3, JavaScript e React
-- 📖 **Idiomas:** Aprendendo Inglês e Francês
-- 🖖 **Pronome:** Ele / Dele
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomurai&count_private=true&theme=github_dark&show_icons=true&cache_seconds=0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=github_dark&cache_seconds=0"/>
-</div>
-
-
----
-
-### 🔥 Atividades Recentes
+## 🔥 Atividades Recentes  
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavomurai&bg_color=0d1117&color=9ed5ff&line=e0f2ff&point=2372d9&area=true&hide_border=true&locale=pt-br"/>
@@ -36,7 +34,11 @@
 
 ---
 
-### 📸 Meu Trabalho
+## 🎨 Meu Trabalho  
+
+🔗 **Veja meus projetos completos no Behance:**  
+🎨 **Figma Designs:** [Projeto 1](#) | [Projeto 2](#)  
+🖌️ **Ilustrações:** [Projeto 3](#)  
 
 <div align="center">
   <a href="https://www.behance.net/Muraiart" target="_blank">
@@ -46,7 +48,7 @@
 
 ---
 
-### 📬 Contato
+## 📬 Contato  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-cerqueira-murai-52a815223" target="_blank">
