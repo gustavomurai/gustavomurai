@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
+  workflow_dispatch:  # Permite rodar manualmente
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar cobrinha
+        uses: Platane/snk@v3
+        with:
+          github_user_name: "gustavomurai"
+          outputs: |
+            github-contribution-grid-snake.svg
+
+      - name: Commit e push da cobrinha
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Atualizando cobrinha de commits 🐍"
+          branch: output
