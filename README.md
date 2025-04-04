@@ -70,7 +70,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 ---
 
 ## 📌 **Onde Me Encontrar**
-🔗 [Meu Portfólio UX/UI]([https://seu-portfolio.com](https://www.behance.net/gallery/220797931/UXUI-Designer-Digital-Artist-Portfolio))  
+🔗 [Meu Portfólio UX/UI](https://www.behance.net/gallery/220797931/UXUI-Designer-Digital-Artist-Portfolio)  
 🎨 [Behance](https://www.behance.net/Muraiart)  
 💬 [LinkedIn](https://www.linkedin.com/in/gustavo-cerqueira-murai-52a815223)
 
