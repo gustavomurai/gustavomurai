@@ -1,7 +1,7 @@
 # 👋 Olá, Eu sou o Gustavo Murai!
 
 🎨 Designer UX/UI apaixonado por criar experiências intuitivas e visuais envolventes.  
-💻 Transformo ideias em realidade usando **Figma, HTML, CSS e JavaScript**.  
+💻 Transformo ideias em realidade usando **Figma, Adobe XD, HTML, CSS e JavaScript**.  
 📚 Atualmente, estudando **React e Design de Interfaces**.  
 📖 Aprendendo **Inglês e Francês**.  
 
@@ -19,29 +19,26 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
+## 📊 Estatísticas  
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavomurai&count_private=true&theme=github_dark&show_icons=true&cache_seconds=0"/>
-  <br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=github_dark&cache_seconds=0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomurai&count_private=true&theme=radical&show_icons=true&icon_color=FFDD44&title_color=FF44AA&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=radical&title_color=FF44AA&text_color=FFFFFF"/>
 </div>
 
 ---
 
-## 🔥 Atividades Recentes  
+## 🏆 Projetos Recentes  
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustavomurai&bg_color=0d1117&color=9ed5ff&line=e0f2ff&point=2372d9&area=true&hide_border=true&locale=pt-br"/>
-</div>
+🎨 **[Projeto 1](#)** – Interface de um sistema de gestão para empresas.  
+📱 **[Projeto 2](#)** – Design de um app mobile para pedidos de comida.  
+💻 **[Projeto 3](#)** – Dashboard interativo para análise de dados.  
+
+*Acesse mais projetos no meu [Behance](https://www.behance.net/Muraiart).*  
 
 ---
 
 ## 🎨 Meu Trabalho  
-
-🔗 **Veja meus projetos completos no Behance:**  
-🎨 **Figma Designs:** [Projeto 1](#) | [Projeto 2](#)  
-🖌️ **Ilustrações:** [Projeto 3](#)  
 
 <div align="center">
   <a href="https://www.behance.net/Muraiart" target="_blank">
