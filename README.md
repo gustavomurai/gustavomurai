@@ -69,6 +69,10 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 
 ---
 
+<div align="center">
+  <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/GIF.gif?raw=true" width="820px" alt="GIF de destaque">
+</div>
+
 ## 📌 **Onde Me Encontrar**
 🔗 [Meu Portfólio UX/UI](https://www.behance.net/gallery/220797931/UXUI-Designer-Digital-Artist-Portfolio)  
 🎨 [Behance](https://www.behance.net/Muraiart)  
