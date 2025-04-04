@@ -1,6 +1,7 @@
 <!-- Banner Personalizado -->
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20GITHUB.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!">
 
+
 # 👋 Olá, Eu sou o Gustavo Murai!
 
 ---
@@ -58,6 +59,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 - UX Research - Domestika
 
 ---
+<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/GIF.gif?raw=true">
 
 ## 🎨 **Projetos Recentes**  
 
