@@ -1,5 +1,5 @@
 <!-- Banner Personalizado -->
-<img src="https://link-do-seu-banner.com/banner.png" width="100%" alt="Bem-vindo ao meu perfil!">
+<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20GITHUB.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!">
 
 # 👋 Olá, Eu sou o Gustavo Murai!
 
@@ -40,8 +40,6 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 
 </div>
 
-
-
 ---
 
 ## 📊 **Estatísticas do GitHub**
@@ -58,6 +56,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 - Figma para Design de Interfaces e User Experience - Udemy
 - Web Design Completo - Udemy  
 - UX Research - Domestika
+
 ---
 
 ## 🎨 **Projetos Recentes**  
@@ -81,6 +80,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
   </a>
 </div>
 
+---
 
 ## 👀 **Contador de Visitas**
 <p align="center">
