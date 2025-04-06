@@ -61,7 +61,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 ---
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/GIF.gif?raw=true">
 
-## 🎨 **Projetos Recentes**  
+## 🎨 **Projetos UX/UI**  
 
 
 
@@ -80,6 +80,17 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
   </div>
 </a>  
 🎮 Um jogo educativo para crianças explorarem frutas e suas cores de forma interativa.
+
+## 💻 **Projetos Front-End** 
+
+<a href="https://gustavomurai.github.io/Climatempo-aplicativo/" style="text-decoration: none;">
+  <div style="background-color: #8A2BE2; padding: 10px; border-radius: 10px; width: fit-content; color: white; font-weight: bold;">
+     Aplicativo previsão do clima (HTML5/CSS3/JavaScript)
+  </div>
+</a>  
+📱 Um aplicativo de previsão do tempo com visual moderno, modo escuro e mapas interativos.  
+
+<br>
 
 ## 📌 **Onde Me Encontrar**
 <div align="center">
