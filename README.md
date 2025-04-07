@@ -105,6 +105,9 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 <a href="https://www.linkedin.com/in/gustavo-cerqueira-murai-52a815223">
   <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="mailto:muraigustavo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 </div>
 
@@ -113,6 +116,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
     <img src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/c7be1295-cbb1-4f13-a570-96f1045231ad" width="820px" />
   </a>
 </div>
+
 
 ---
 
