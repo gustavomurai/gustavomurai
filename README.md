@@ -49,6 +49,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=radical&cache_seconds=0"/>
 </div>
 
+
 ---
 
 ## 📜 Graduação, Certificações & Cursos 
