@@ -68,7 +68,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 
 <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" style="text-decoration: none;">
   <div style="background-color: #8A2BE2; padding: 10px; border-radius: 10px; width: fit-content; color: white; font-weight: bold;">
-     Coffee Shop Mobile App Design ( UX/UI )
+     Coffee Shop Mobile App Design ( Figma )
   </div>
 </a>  
 📱 Um aplicativo de cafeteria urbana, focado na melhor experiência do usuário ao pedir café.  
@@ -77,7 +77,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 
 <a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" style="text-decoration: none;">
   <div style="background-color: #8A2BE2; padding: 10px; border-radius: 10px; width: fit-content; color: white; font-weight: bold;">
-     Color Fruit - Kids Game Design ( UX/UI )
+     Color Fruit - Kids Game Design ( Figma )
   </div>
 </a>  
 🎮 Um jogo educativo para crianças explorarem frutas e suas cores de forma interativa.
