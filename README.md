@@ -50,6 +50,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 ## 🎨 **Projetos UX/UI**
 - ☕ [Coffee Shop Mobile App Design (Figma)](https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI) — App de cafeteria urbana, focado na melhor experiência do usuário ao pedir café.  
 - 🎮 [Color Fruit - Kids Game Design (Figma)](https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI) — Jogo educativo para crianças explorarem frutas e suas cores de forma interativa.
+- 📈 CRUD for employees — *Em andamento*.
 
 ---
 ## 💻 **Projetos Front-End**
