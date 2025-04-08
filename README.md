@@ -1,7 +1,6 @@
 <!-- Banner Personalizado -->
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20GITHUB.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!">
 
-
 # 👋 Olá, Eu sou o Gustavo Murai!
 
 ---
@@ -43,55 +42,43 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 
 ---
 
+<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/GIF.gif?raw=true">
+
+---
+
+
+## 🎨 **Projetos UX/UI**
+- ☕ [Coffee Shop Mobile App Design (Figma)](https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI) — App de cafeteria urbana, focado na melhor experiência do usuário ao pedir café.  
+- 🎮 [Color Fruit - Kids Game Design (Figma)](https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI) — Jogo educativo para crianças explorarem frutas e suas cores de forma interativa.
+
+---
+## 💻 **Projetos Front-End**
+- 🌤️ [App de Previsão do Tempo](https://gustavomurai.github.io/Climatempo-aplicativo/) — Consulta de clima por cidade com design responsivo, dark mode e suporte PWA.  
+- 📦 App de Lista de Tarefas — *Em andamento*.  
+- 📈 Dashboard de Análises — *Em andamento*.
+
+---
+
+
+
+
 ## 📊 **Estatísticas do GitHub**
+🌟 Essas métricas mostram minha dedicação diária e constante evolução como dev!  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomurai&count_private=true&theme=radical&show_icons=true&cache_seconds=0"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=radical&cache_seconds=0"/>
 </div>
 
-
 ---
 
 ## 📜 Graduação, Certificações & Cursos 
-- Graduação em Análise e Desenvolvimento de Sistemas - IFSP
-- Google UX Design - Coursera & Google 
-- Figma para Design de Interfaces e User Experience - Udemy
+- Graduação em Análise e Desenvolvimento de Sistemas - IFSP  
+- Google UX Design - Coursera & Google  
+- Figma para Design de Interfaces e User Experience - Udemy  
 - Web Design Completo - Udemy  
-- UX Research - Domestika
+- UX Research - Domestika  
 
 ---
-<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/GIF.gif?raw=true">
-
-## 🎨 **Projetos UX/UI**  
-
-
-
-<a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" style="text-decoration: none;">
-  <div style="background-color: #8A2BE2; padding: 10px; border-radius: 10px; width: fit-content; color: white; font-weight: bold;">
-     Coffee Shop Mobile App Design ( Figma )
-  </div>
-</a>  
-📱 Um aplicativo de cafeteria urbana, focado na melhor experiência do usuário ao pedir café.  
-
-<br>
-
-<a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" style="text-decoration: none;">
-  <div style="background-color: #8A2BE2; padding: 10px; border-radius: 10px; width: fit-content; color: white; font-weight: bold;">
-     Color Fruit - Kids Game Design ( Figma )
-  </div>
-</a>  
-🎮 Um jogo educativo para crianças explorarem frutas e suas cores de forma interativa.
-
-## 💻 **Projetos Front-End** 
-
-<a href="https://gustavomurai.github.io/Climatempo-aplicativo/" style="text-decoration: none;">
-  <div style="background-color: #8A2BE2; padding: 10px; border-radius: 10px; width: fit-content; color: white; font-weight: bold;">
-     Aplicativo previsão do clima ( HTML5/CSS3/JavaScript )
-  </div>
-</a>  
-📱 Um aplicativo de previsão do tempo com visual moderno, modo escuro e mapas interativos.  
-
-<br>
 
 ## 📌 **Onde Me Encontrar**
 <div align="center">
@@ -117,10 +104,13 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
   </a>
 </div>
 
-
 ---
 
-## 👀 **Contador de Visitas**
+<!-- Contador de visitas -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gustavomurai&color=ff69b4&style=flat" alt="contador de visitas">
+  <img src="https://komarev.com/ghpvc/?username=gustavomurai&color=blueviolet" alt="Contador de visitas" />
+</p>
+
+<p align="center">
+  💜 Obrigado por visitar meu perfil!
 </p>
