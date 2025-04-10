@@ -53,8 +53,8 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 - 📈 CRUD for employees — *Em andamento*.
 
 ---
-## 💻 **Projetos Front-End**
-- 🌤️ [App de Previsão do Tempo](https://gustavomurai.github.io/Climatempo-aplicativo/) — Consulta de clima por cidade com design responsivo, dark mode e suporte PWA.  
+## 💻 **Projetos Front-End** ( todas informações disponível nos repositório )
+- 🌤️ [App de Previsão do Tempo](https://gustavomurai.github.io/Climatempo-aplicativo/) — Consulta de clima por cidade com design responsivo, dark mode e suporte PWA.   
 - 📦 App de Lista de Tarefas — *Em andamento*.  
 - 📈 Dashboard de Análises — *Em andamento*.
 
