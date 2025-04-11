@@ -2,7 +2,7 @@
 
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20GITHUB.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!">
 
-# 👋 Olá, Eu sou o Gustavo Murai!
+# 🫰 Olá, Eu sou o Gustavo Murai
 
 
 
@@ -14,7 +14,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 ## 🛠️ **Tecnologias & Ferramentas**
 <div align="center">
 
-  <table style="border: 3px solid #8A2BE2; border-radius: 10px;">
+  <table style="border: 3px solid #8A2BE2; border-radius: 5px;">
     <tr>
       <td align="center" style="border: 3px solid #8A2BE2; border-radius: 10px; padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/>
