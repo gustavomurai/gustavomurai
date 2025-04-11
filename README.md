@@ -1,5 +1,6 @@
 <!-- Banner Personalizado -->
-<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20GITHUB.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!">
+
+<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20NOVA%20GITHUB.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!">
 
 # 👋 Olá, Eu sou o Gustavo Murai!
 
@@ -8,7 +9,7 @@
 ## 🎯 **Objetivo Profissional**
 Apaixonado por design e experiência do usuário, busco criar interfaces intuitivas e visualmente atraentes. Meu objetivo é desenvolver produtos que proporcionem experiências incríveis para os usuários, aliando estética e funcionalidade.
 
----
+
 
 ## 🛠️ **Tecnologias & Ferramentas**
 <div align="center">
@@ -40,11 +41,10 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 
 </div>
 
----
-
+#
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/GIF.gif?raw=true">
 
----
+#
 
 
 ## 🎨 **Projetos UX/UI**
