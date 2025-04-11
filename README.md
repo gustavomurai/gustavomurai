@@ -45,6 +45,16 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20PORTFOLIO.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!">
 
 
+<h3 align="left">Projetos UX/UI</h3>
+
+<div align="left">
+  <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" target="_blank">
+    <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="200" />
+  </a>
+  <p><strong>Gusto Coffee Mobile App</strong></p>
+</div>
+
+
 
 
 ## 🎨 **Projetos UX/UI**
