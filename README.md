@@ -44,7 +44,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 #
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20PORTFOLIO.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!">
 
-#
+
 
 
 ## 🎨 **Projetos UX/UI**
