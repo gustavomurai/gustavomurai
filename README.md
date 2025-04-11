@@ -1,6 +1,6 @@
 <!-- Banner Personalizado -->
 
-<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20NOVA%20GITHUB.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!">
+<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20GITHUB.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!">
 
 # 👋 Olá, Eu sou o Gustavo Murai!
 
