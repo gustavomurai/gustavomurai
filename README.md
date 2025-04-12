@@ -42,13 +42,13 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
   <tr>
     <td align="center">
       <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" target="_blank">
-        <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="200" style="border: none;" />
+        <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="250" style="border: none;"/>
       </a>
       <br><span style="color: white;"><strong>Gusto Coffee Mobile App</strong></span>
     </td>
     <td align="center">
       <a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" target="_blank">
-        <img src="assets/colorfruitapp.png" alt="Capa do projeto Color Fruit Game App" height="200" style="border: none;" />
+        <img src="assets/colorfruitapp.png" alt="Capa do projeto Color Fruit Game App" height="250" style="border: none;"/>
       </a>
       <br><span style="color: white;"><strong>Color Fruit Design Game App</strong></span>
     </td>
