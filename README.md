@@ -38,7 +38,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 </div>
 
 #
-<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20PORTFOLIO.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!">
+<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20PORTFOLIO.png?raw=true" width="100%" alt="Banner do Portfólio">
 
 ## 🎨 **Projetos UX/UI**
 
@@ -46,21 +46,21 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
   <tr>
     <td align="center">
       <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" target="_blank">
-        <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="200" />
+        <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="200" style="border: none;" />
       </a>
-      <br><span><strong style="color: white;">Gusto Coffee Mobile App</strong></span>
+      <br><span style="color: white;"><strong>Gusto Coffee Mobile App</strong></span>
     </td>
     <td align="center">
       <a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" target="_blank">
-        <img src="assets/colorfruitapp.png" alt="Capa do projeto Color Fruit Game App" height="200" />
+        <img src="assets/colorfruitapp.png" alt="Capa do projeto Color Fruit Game App" height="200" style="border: none;" />
       </a>
-      <br><span><strong style="color: white;">Color Fruit Design Game App</strong></span>
+      <br><span style="color: white;"><strong>Color Fruit Design Game App</strong></span>
     </td>
   </tr>
 </table>
 
-- ☕ Coffee Shop Mobile App Design — App de cafeteria urbana, focado na melhor experiência do usuário ao pedir café.  
-- 🎮 Color Fruit - Kids Game Design — Jogo educativo para crianças explorarem frutas e suas cores de forma interativa.  
+- ☕ [Coffee Shop Mobile App Design](https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI) — App de cafeteria urbana, focado na melhor experiência do usuário ao pedir café.  
+- 🎮 [Color Fruit - Kids Game Design](https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI) — Jogo educativo para crianças explorarem frutas e suas cores de forma interativa.  
 - 📈 CRUD for employees — *Em andamento*.
 
 ---
@@ -100,4 +100,27 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
   <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
 </a>
 <a href="https://www.linkedin.com/in/gustavo-cerqueira-murai-52a815223">
-  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:muraigustavo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+</div>
+
+<div align="center">
+  <a href="https://www.behance.net/Muraiart" target="_blank">
+    <img src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/c7be1295-cbb1-4f13-a570-96f1045231ad" width="820px" />
+  </a>
+</div>
+
+---
+
+<!-- Contador de visitas -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gustavomurai&color=blueviolet" alt="Contador de visitas" />
+</p>
+
+<p align="center">
+  💜 Obrigado por visitar meu perfil!
+</p>
