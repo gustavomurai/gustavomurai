@@ -50,31 +50,31 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
 <!-- Projetos UX/UI -->
 ## 🎨 **Projetos UX/UI**
 
-<div align="center" style="overflow-x: auto; white-space: nowrap;">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" target="_blank">
-      <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="200" />
-    </a>
-    <br><small>App para pedidos em cafeterias</small>
-  </div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" target="_blank">
+        <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="200" />
+      </a>
+      <br><small>App de pedidos para cafeteria</small>
+    </td>
+    <td align="center">
+      <a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" target="_blank">
+        <img src="assets/colorfruitapp.png" alt="Capa do projeto Color Fruit Game App" height="200" />
+      </a>
+      <br><small>Jogo educativo para crianças</small>
+    </td>
+    <td align="center">
+      <a href="#" target="_blank">
+        <img src="assets/projetoemandamento.png" alt="Capa do projeto Projeto em andamento" height="200" />
+      </a>
+      <br><small>Protótipo em desenvolvimento</small>
+    </td>
+  </tr>
+</table>
 
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" target="_blank">
-      <img src="assets/colorfruitapp.png" alt="Capa do projeto Color Fruit Game App" height="200" />
-    </a>
-    <br><small>Jogo educativo para crianças</small>
-  </div>
-
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <a href="#" target="_blank">
-      <img src="assets/projetoemandamento.png" alt="Capa do projeto Projeto em andamento" height="200" />
-    </a>
-    <br><small>Protótipo em desenvolvimento</small>
-  </div>
-</div>
 
 
----
 
 <!-- Projetos Front-End -->
 ## 💻 **Projetos Front-End**
@@ -144,3 +144,6 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
 <p align="center">
   💜 Obrigado por visitar meu perfil!
 </p>
+
+
+nos tres projetos UX/UI coloque um legenda em cada um a ver com cada projeto mas pequeno para caber abaixo da imagem
