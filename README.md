@@ -45,6 +45,8 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
 
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20PORTFOLIO.png?raw=true" width="100%" alt="Banner do Portfólio" style="border: none;">
 
+---
+
 <!-- Projetos UX/UI -->
 ## 🎨 **Projetos UX/UI**
 
@@ -60,7 +62,7 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
   </a>
 </div>
 
----
+
 
 <!-- Projetos Front-End -->
 ## 💻 **Projetos Front-End**
