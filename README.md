@@ -51,16 +51,28 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
 ## 🎨 **Projetos UX/UI**
 
 <div align="center" style="overflow-x: auto; white-space: nowrap;">
-  <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" target="_blank">
-    <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="200" style="margin: 10px;" />
-  </a>
-  <a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" target="_blank">
-    <img src="assets/colorfruitapp.png" alt="Capa do projeto Color Fruit Game App" height="200" style="margin: 10px;" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="assets/projetoemandamento.png" alt="Capa do projeto Projeto em andamento" height="200" style="margin: 10px;" />
-  </a>
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" target="_blank">
+      <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="200" />
+    </a>
+    <br><small>App para pedidos em cafeterias</small>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" target="_blank">
+      <img src="assets/colorfruitapp.png" alt="Capa do projeto Color Fruit Game App" height="200" />
+    </a>
+    <br><small>Jogo educativo para crianças</small>
+  </div>
+
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <a href="#" target="_blank">
+      <img src="assets/projetoemandamento.png" alt="Capa do projeto Projeto em andamento" height="200" />
+    </a>
+    <br><small>Protótipo em desenvolvimento</small>
+  </div>
 </div>
+
 
 ---
 
