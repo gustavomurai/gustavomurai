@@ -37,7 +37,7 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 #
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20PORTFOLIO.png?raw=true" width="100%" alt="Banner do Portfólio" style="border: none;">
 
-## **Projetos UX/UI**
+## **Projetos UX/UI 🎨**
 <div style="overflow-x: auto; white-space: nowrap; text-align: center;">
   <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" target="_blank">
     <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="200" style="border: none; margin: 10px; display: inline-block;"/>
@@ -45,10 +45,12 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
   <a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" target="_blank">
     <img src="assets/colorfruitapp.png" alt="Capa do projeto Color Fruit Game App" height="200" style="border: none; margin: 10px; display: inline-block;"/>
   </a>
+ <a href= target="_blank">
+    <img src="assets/projetoemandamento.png" alt="Capa do projeto Projeto em andamento" height="200" style="border: none; margin: 10px; display: inline-block;"/>
 </div>
 
 
-- 📈 CRUD for employees — *Em andamento*.
+
 
 ---
 
