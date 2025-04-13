@@ -3,10 +3,10 @@
 
 # 🫰 Olá, Eu sou o Gustavo Murai
 
-## 🎯 **Objetivo Profissional**
+**Objetivo Profissional**
 Apaixonado por design e experiência do usuário, busco criar interfaces intuitivas e visualmente atraentes. Meu objetivo é desenvolver produtos que proporcionem experiências incríveis para os usuários, aliando estética e funcionalidade.
 
-## 🛠️ **Tecnologias & Ferramentas**
+## **Tecnologias & Ferramentas**
 <div align="center">
   <table style="border-collapse: collapse;">
     <tr>
@@ -37,18 +37,17 @@ Apaixonado por design e experiência do usuário, busco criar interfaces intuiti
 #
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20PORTFOLIO.png?raw=true" width="100%" alt="Banner do Portfólio" style="border: none;">
 
-## 🎨 **Projetos UX/UI**
+## **Projetos UX/UI**
 <div style="overflow-x: auto; white-space: nowrap; text-align: center;">
   <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" target="_blank">
-    <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="150" style="border: none; margin: 10px; display: inline-block;"/>
+    <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="200" style="border: none; margin: 10px; display: inline-block;"/>
   </a>
   <a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" target="_blank">
-    <img src="assets/colorfruitapp.png" alt="Capa do projeto Color Fruit Game App" height="150" style="border: none; margin: 10px; display: inline-block;"/>
+    <img src="assets/colorfruitapp.png" alt="Capa do projeto Color Fruit Game App" height="200" style="border: none; margin: 10px; display: inline-block;"/>
   </a>
 </div>
 
-- ☕ [Coffee Shop Mobile App Design](https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI) — App de cafeteria urbana, focado na melhor experiência do usuário ao pedir café.  
-- 🎮 [Color Fruit - Kids Game Design](https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI) — Jogo educativo para crianças explorarem frutas e suas cores de forma interativa.  
+
 - 📈 CRUD for employees — *Em andamento*.
 
 ---
