@@ -54,13 +54,13 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
   <tr>
     <td align="center">
       <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" target="_blank">
-        <img src="assets/colorcoffeeapp.png" alt="Capa do projeto Coffee Shop Gusto" height="200" />
+        <img src="assets/capaframe2.png" alt="Capa do projeto Coffee Shop Gusto" height="200" />
       </a>
       <br><small>App de pedidos para cafeteria</small>
     </td>
     <td align="center">
       <a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" target="_blank">
-        <img src="assets/colorfruitapp.png" alt="Capa do projeto Color Fruit Game App" height="200" />
+        <img src="assets/capaframe.png" alt="Capa do projeto Color Fruit Game App" height="200" />
       </a>
       <br><small>Jogo educativo para crianças</small>
     </td>
