@@ -65,8 +65,8 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
       <br><small>Jogo educativo para crianças</small>
     </td>
     <td align="center">
-      <a href="#" target="_blank">
-        <img src="assets/projetoemandamento.png" alt="Capa do projeto Projeto em andamento" height="200" />
+      <a href="https://www.behance.net/gallery/223612037/CRUD-for-Employees-Desktop-Mobile-App?" target="_blank">
+        <img src="assets/CAPA.png" alt="Capa do projeto CRUD for employees" height="200" />
       </a>
       <br><small>Protótipo em desenvolvimento</small>
     </td>
