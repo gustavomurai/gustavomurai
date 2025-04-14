@@ -66,7 +66,7 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
     </td>
     <td align="center">
       <a href="https://www.behance.net/gallery/223612037/CRUD-for-Employees-Desktop-Mobile-App?" target="_blank">
-        <img src="assets/capaframe3.png" alt="Capa do projeto CRUD for employees" height="200" />
+        <img src="assets/capaframe4.png" alt="Capa do projeto CRUD for employees" height="200" />
       </a>
       <br><small>App de gestão de funcionários</small>
     </td>
