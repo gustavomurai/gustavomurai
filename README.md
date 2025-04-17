@@ -146,4 +146,3 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
 </p>
 
 
-nos tres projetos UX/UI coloque um legenda em cada um a ver com cada projeto mas pequeno para caber abaixo da imagem
