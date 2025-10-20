@@ -114,10 +114,10 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
 ## 📌 **Onde Me Encontrar**
 
 <div align="center">
-  <a href="https://www.behance.net/gallery/220797931/UXUI-Designer-Digital-Artist-Portfolio">
+  <a href="https://www.behance.net/gustavomurai">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=behance&logoColor=white" alt="Portfólio UX/UI">
   </a>
-  <a href="https://www.behance.net/Muraiart">
+  <a href="https://www.behance.net/gustavomurai">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
   </a>
   <a href="https://www.linkedin.com/in/gustavo-cerqueira-murai-52a815223">
