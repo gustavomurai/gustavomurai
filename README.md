@@ -102,11 +102,11 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
 <!-- Formação -->
 ## 📜 **Graduação, Certificações & Cursos**
 
-- Graduação em Análise e Desenvolvimento de Sistemas - IFSP  
+- Graduação em Análise e Desenvolvimento de Sistemas - IFSP
+- Formação UX Design - Alura
 - Google UX Design - Coursera & Google  
 - Figma para Design de Interfaces e User Experience - Udemy  
-- Web Design Completo - Udemy  
-- UX Research - Domestika  
+- SQL Zero a avançado - Udemy
 
 ---
 
