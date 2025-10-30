@@ -56,7 +56,7 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
       <a href="https://www.behance.net/gallery/220600085/Coffee-Shop-Mobile-App-Design-UXUI" target="_blank">
         <img src="assets/coffeeshop.png" alt="Capa do projeto Coffee Shop Gusto" height="200" />
       </a>
-      <br><small>App de pedidos para cafeteria</small>
+      <br><small>App de cafeteria</small>
     </td>
     <td align="center">
       <a href="https://www.behance.net/gallery/220630751/Color-Fruit-Kids-Game-Design-UXUI" target="_blank">
@@ -68,7 +68,7 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
       <a href="https://www.behance.net/gallery/235451487/Doativa-UXUI-de-App-Mobile-para-Doacao" target="_blank">
   <img src="assets/doativa.png" alt="Capa do projeto Doativa UX/UI" height="200" />
 </a>
-<br><small>App mobile para doações</small>
+<br><small>App mobile de doações</small>
     </td>
   </tr>
 </table>
