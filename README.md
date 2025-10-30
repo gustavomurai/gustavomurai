@@ -81,7 +81,7 @@ Unindo **design, análise de dados e desenvolvimento web**, desenvolvo produtos 
 
 - 🧾 [CRUD de Contatos](https://github.com/gustavomurai/crud-contatos) —  
   *CRUD completo com cadastro, edição e exclusão de contatos em HTML, CSS e JavaScript.*  
-  🔗 [Acesse o repositório](https://github.com/gustavomurai/crud-contatos)
+  🔗 [Acesse o Projeto](https://gustavomurai.github.io/crud-contatos/)
 
 - 📈 Dashboard de Análises — *Em andamento*.
 
