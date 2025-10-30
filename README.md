@@ -82,8 +82,9 @@ Meu objetivo é desenvolver produtos que proporcionem experiências incríveis p
 *todas informações disponíveis nos repositórios*
 
 - 🌤️ [App de Previsão do Tempo](https://gustavomurai.github.io/Climatempo-aplicativo/) — Consulta de clima por cidade com design responsivo, dark mode e suporte PWA.  
-- 📦 App de Lista de Tarefas — *Em andamento*.  
+- 🧾 [CRUD de Contatos](https://github.com/gustavomurai/crud-contatos) — Aplicação web completa com cadastro, edição e exclusão de contatos em HTML, CSS e JavaScript.  
 - 📈 Dashboard de Análises — *Em andamento*.
+
 
 ---
 
