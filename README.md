@@ -94,7 +94,7 @@ Unindo **design, análise de dados e desenvolvimento web**, desenvolvo produtos 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomurai&count_private=true&theme=radical&show_icons=true&cache_seconds=0"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=radical&cache_seconds=0"/>
-  <img src="https://streak-stats.demolab.com?user=gustavomurai&theme=radical&hide_border=false" height="180em"/>
+  
 </div>
 
 ---
