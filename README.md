@@ -121,9 +121,6 @@ Unindo **design, análise de dados e desenvolvimento web**, desenvolvo produtos 
 
 <div align="center">
   <a href="https://www.behance.net/gustavomurai">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=behance&logoColor=white" alt="Portfólio UX/UI">
-  </a>
-  <a href="https://www.behance.net/gustavomurai">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
   </a>
   <a href="https://www.linkedin.com/in/gustavomurai">
