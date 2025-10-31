@@ -87,12 +87,9 @@ Unindo **design, análise de dados e desenvolvimento web**, desenvolvo produtos 
 
 ---
 
-## 📊 **Estatísticas do GitHub**
-
-🌟 Essas métricas mostram minha dedicação diária e constante evolução como dev!
+## 📊 **Linguagens mais utilizada**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavomurai&count_private=true&theme=radical&show_icons=true&cache_seconds=0"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomurai&layout=compact&theme=radical&cache_seconds=0"/>
   
 </div>
