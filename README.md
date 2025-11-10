@@ -1,5 +1,5 @@
 <!-- Banner Personalizado -->
-<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20GITHUB.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!" style="border: none;">
+<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/frame.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!" style="border: none;">
 
 # 🫰 Olá, Eu sou o Gustavo Murai  
 ### 👨‍💻 UX/UI Designer & Front-End Developer
