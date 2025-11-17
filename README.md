@@ -75,11 +75,11 @@ Unindo **design, análise de dados e desenvolvimento web**, desenvolvo produtos 
 
 *todas informações disponíveis nos repositórios*
 
-- 🌤️ [App de Previsão do Tempo](https://github.com/gustavomurai/Climatempo-aplicativo) —  
+- 🌤️ [App de Previsão do Tempo](https://github.com/gustavomurai/Aplicativo-Clima) —  
   *Consulta de clima com design responsivo e suporte PWA.*  
-  🔗 [Acesse o projeto](https://gustavomurai.github.io/Climatempo-aplicativo)
+  🔗 [Acesse o projeto](https://gustavomurai.github.io/Aplicativo-Clima/)
 
-- 🧾 [CRUD de Contatos](https://github.com/gustavomurai/crud-contatos) —  
+- 🧾 [CRUD de Contatos](https://github.com/gustavomurai/Aplicativo-Crud) —  
   *CRUD completo com cadastro, edição e exclusão de contatos em HTML, CSS e JavaScript.*  
   🔗 [Acesse o Projeto](https://gustavomurai.github.io/crud-contatos/)
 
