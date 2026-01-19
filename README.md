@@ -82,7 +82,7 @@
 
   <td align="center">
       <a href="https://github.com/gustavomurai/gestao-tarefas-oficial" target="_blank">
-        <img src="assets/thumbnail-gestao-de-tarefas.png" alt="Thumbnail Gestão de Tarefas (Angular)" height="200" />
+        <img src="assets/thumbail-gestao-de-tarefas.png" alt="Thumbnail Gestão de Tarefas (Angular)" height="200" />
       </a>
       <br><small>Gestão de Tarefas</small><br><small><i>Angular • TypeScript • SPA</i></small>
     </td>
