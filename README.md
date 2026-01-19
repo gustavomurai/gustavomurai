@@ -1,4 +1,4 @@
-<img width="763" height="977" alt="image" src="https://github.com/user-attachments/assets/85527def-d63d-4264-bcde-dad4997ec987" /><!-- Banner Personalizado -->
+
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/Frame.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!" style="border: none;">
 
 
