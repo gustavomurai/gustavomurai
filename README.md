@@ -1,4 +1,4 @@
-<!-- Banner Personalizado -->
+<img width="763" height="977" alt="image" src="https://github.com/user-attachments/assets/85527def-d63d-4264-bcde-dad4997ec987" /><!-- Banner Personalizado -->
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/Frame.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!" style="border: none;">
 
 
@@ -71,17 +71,30 @@
 
 ## 💻 **Projetos Front-End**
 
-*todas informações disponíveis nos repositórios*
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/gustavomurai/Aplicativo-Clima" target="_blank">
+        <img src="assets/thumbnail-clima.png" alt="Thumbnail App de Previsão do Tempo" height="200" />
+      </a>
+      <br><small>App de Previsão do Tempo</small><br><small><i>HTML • CSS • JavaScript • PWA</i></small>
+    </td>
 
-- 🌤️ [App de Previsão do Tempo](https://github.com/gustavomurai/Aplicativo-Clima) —  
-  *Consulta de clima com design responsivo e suporte PWA.*  
-  🔗 [Acesse o projeto](https://gustavomurai.github.io/Aplicativo-Clima/)
+  <td align="center">
+      <a href="https://github.com/gustavomurai/gestao-tarefas-oficial" target="_blank">
+        <img src="assets/thumbnail-gestao-de-tarefas.png" alt="Thumbnail Gestão de Tarefas (Angular)" height="200" />
+      </a>
+      <br><small>Gestão de Tarefas</small><br><small><i>Angular • TypeScript • SPA</i></small>
+    </td>
 
-- 🧾 [CRUD de Contatos](https://github.com/gustavomurai/Aplicativo-Crud) —  
-  *CRUD completo com cadastro, edição e exclusão de contatos em HTML, CSS e JavaScript.*  
-  🔗 [Acesse o Projeto](https://gustavomurai.github.io/crud-contatos/)
-
-- 📈 Dashboard de Análises — *Em andamento*.
+  <td align="center">
+      <a href="https://github.com/gustavomurai/crud-tarefas-react" target="_blank">
+        <img src="assets/thumbnail-taskflow.png" alt="Thumbnail CRUD de Tarefas (React)" height="200" />
+      </a>
+      <br><small>CRUD de Tarefas</small><br><small><i>React • JavaScript • Componentização</i></small>
+    </td>
+  </tr>
+</table>
 
 ---
 
