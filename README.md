@@ -1,48 +1,46 @@
 <!-- Banner Personalizado -->
 <img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/Frame.png?raw=true" width="100%" alt="Bem-vindo ao meu perfil!" style="border: none;">
 
-# 🫰 Olá, Eu sou o Gustavo Murai  
-### 👨‍💻 UX/UI Designer & Front-End Developer
 
-Apaixonado por design e experiência do usuário, busco criar interfaces intuitivas, acessíveis e visualmente atraentes.  
-Unindo **design, análise de dados e desenvolvimento web**, desenvolvo produtos que aliam estética, funcionalidade e impacto real.
-
----
-
-## 🚀 **Tecnologias & Ferramentas**
+<h2> Tecnologias Utilizadas</h2>
 
 <div align="center">
-  <table style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" />
-        <br><b>Figma</b><br><small>UI/UX Design</small>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" height="50" />
-        <br><b>Adobe XD</b><br><small>Prototipagem</small>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
-        <br><b>HTML5</b><br><small>Front-End</small>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
-        <br><b>CSS3</b><br><small>Estilização</small>
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-        <br><b>JavaScript</b><br><small>Interatividade</small>
-      </td>
-    </tr>
-  </table>
+  <div style="display:inline-block; padding:14px 22px; border:1px solid rgba(255,255,255,0.14); border-radius:18px;">
+    <table>
+      <tr>
+        <td align="center" style="padding:10px 18px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" /><br/>
+          <b>Figma</b>
+        </td>
+        <td align="center" style="padding:10px 18px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" /><br/>
+          <b>HTML5</b>
+        </td>
+        <td align="center" style="padding:10px 18px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" /><br/>
+          <b>CSS3</b>
+        </td>
+        <td align="center" style="padding:10px 18px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" /><br/>
+          <b>JavaScript</b>
+        </td>
+        <td align="center" style="padding:10px 18px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" /><br/>
+          <b>React</b>
+        </td>
+        <td align="center" style="padding:10px 18px;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="38" /><br/>
+          <b>Angular</b>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
----
 
-<img src="https://github.com/gustavomurai/gustavomurai/blob/main/assets/CAPA%20PORTFOLIO.png?raw=true" width="100%" alt="Banner do Portfólio" style="border: none;">
 
 ---
+
 
 ## 🎨 **Projetos UX/UI**
 
