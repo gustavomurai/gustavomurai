@@ -155,9 +155,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gustavomurai&color=blueviolet" alt="Contador de visitas" />
-</p>
 
 <p align="center">
   💜 Obrigado por visitar meu perfil! <br>
