@@ -147,11 +147,7 @@
   </div>
 </div>
 
-<div align="center">
-  <a href="https://www.behance.net/Muraiart" target="_blank">
-    <img src="https://github.com/gustavomurai/GustavoMurai/assets/140205418/c7be1295-cbb1-4f13-a570-96f1045231ad" width="820px" />
-  </a>
-</div>
+
 
 ---
 
